@@ -1,6 +1,6 @@
 # dotnet-format IDE0300 KeyNotFoundException Repro
 
-Repro for `KeyNotFoundException` for IDE0300 with `dotnet format` in .NET 9 preview 2.
+Repro for [dotnet/sdk#39909](https://github.com/dotnet/sdk/issues/39909).
 
 To reproduce the issue, clone this repository and run the following command:
 
