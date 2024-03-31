@@ -1,0 +1,9 @@
+<Project>
+  <PropertyGroup>
+    <AnalysisMode>All</AnalysisMode>
+    <EnableGenerateDocumentationFile>true</EnableGenerateDocumentationFile>
+    <EnableNETAnalyzers>true</EnableNETAnalyzers>
+    <EnforceCodeStyleInBuild>true</EnforceCodeStyleInBuild>
+    <NoWarn>$(NoWarn);CA1002</NoWarn>
+  </PropertyGroup>
+</Project>
